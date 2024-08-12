@@ -1,0 +1,43 @@
+/*----- style.css ----- */
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color:#F5F5DC;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+ path:hover {
+    fill: #b0fcfff0;
+    transition: 0.6s;
+    cursor: pointer;
+    mask-image: url(mmn.jpg);
+}
+a path{
+    fill:#ffffff;
+    stroke: #000000;
+    stroke-width: 1;
+    border-color: #eee;
+}
+h1{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 2cm;
+}
+h4 {
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 1cm;
+ }
+
+
+
+

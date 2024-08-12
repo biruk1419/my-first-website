@@ -1,0 +1,33 @@
+body {
+    background-color:#F5F5DC;
+    }
+    h1{
+        font-size: 2cm;
+        font-style: italic;
+        font-weight: 200;
+        text-align: center;
+    }
+    a img{
+        border-radius: 500px;
+        }
+    .go {
+        padding-left: 100px;
+       
+    }
+    .sushi {
+        padding-left: 200px;
+         
+    }
+    .Biryani{
+        padding-left: 100px;
+    }
+    .item4{
+        padding-left: 150px;
+       
+    }
+    .item5{
+        padding-left: 100px;
+    }
+    .item6{
+        padding-left: 200px;
+    }
